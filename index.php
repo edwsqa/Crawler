@@ -1,2 +1,2 @@
 <?php
-	print("Helou");
+	phpinfo();
