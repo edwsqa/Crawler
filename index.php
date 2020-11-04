@@ -1,4 +1,4 @@
 <?php
-header("Location: http://scraper2-testiprojekti2.rahtiapp.fi/files/");
+header("Location: http://files-scraper.rahtiapp.fi/files ");
 exit();
 ?>
