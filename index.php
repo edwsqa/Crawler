@@ -1,8 +1,4 @@
 <?php
-$dir    = 'files';
-$files1 = scandir($dir);
-$files2 = scandir($dir, 1);
-
-print_r($files1);
-print_r($files2);
+header("Location: http://scraper2-testiprojekti2.rahtiapp.fi/files/");
+exit();
 ?>
