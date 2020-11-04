@@ -1,2 +1,1 @@
-<?php
-	print("mmmmmmm");
+<?php include("/home/mazku/testi/files"); ?>
