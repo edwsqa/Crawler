@@ -1,1 +1,5 @@
-<?php include("/home/mazku/testi/files"); ?>
+<?php
+
+chdir("files");
+
+?>
