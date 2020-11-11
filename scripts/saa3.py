@@ -1,9 +1,10 @@
+
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as soup
 import csv
 import os
 
-url = 'https://www.foreca.fi/Finland/Ylivieska/10vrk'
+url = 'https://www.foreca.fi/Finland/Oulu/10vrk'
 
 req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 uClient = urlopen(req)
@@ -15,7 +16,7 @@ page_soup = soup(page_html, "html.parser")
 
 containers = page_soup.findAll("div",{"class":"day"})
 
-filename = "/home/mazku/testi/files/WeatherYlivieska.csv"
+filename = "/home/mazku/testi/files/WeatherOulu.csv"
 f = open(filename, "w")
 
 headers = "Päivämäärä, Sää, Ylin, Alin, Tuuli\n"
@@ -54,4 +55,3 @@ for container in containers:
 
 
 f.close()
-
