@@ -15,7 +15,7 @@ page_soup = soup(page_html, "html.parser")
 
 containers = page_soup.findAll("div",{"class":"day"})
 
-filename = "/home/mazku/testi/files/Weather.csv"
+filename = "/home/mazku/testi/files/WeatherKajaani.csv"
 f = open(filename, "w")
 
 headers = "Päivämäärä, Sää, Ylin, Alin, Tuuli\n"
