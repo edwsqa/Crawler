@@ -5,7 +5,7 @@
 
 <?php
 echo "<html><body><table>\n\n";
-$f = fopen("/files/jimms.csv", "r");
+$f = fopen("files/jimms.csv", "r");
 while (($line = fgetcsv($f)) !== false) {
         echo "<tr>";
         foreach ($line as $cell) {
