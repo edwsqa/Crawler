@@ -1,9 +1,9 @@
 brand, product_name, shipping
-ASUS,ASUS Radeon RX 6800 XT RX6800XT-16G 16GB 256-Bit GDDR6 PCI Express 4.0 Video Card,
 EVGA,EVGA GeForce RTX 3090 FTW3 ULTRA GAMING Video Card| 24G-P5-3987-KR| 24GB GDDR6X| iCX3 Technology| ARGB LED| Metal Backplate,
 MSI,MSI GeForce RTX 3070 DirectX 12 RTX 3070 GAMING X TRIO 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready Video Card,
 EVGA,EVGA GeForce RTX 3080 XC3 ULTRA GAMING Video Card| 10G-P5-3885-KR| 10GB GDDR6X| iCX3 Cooling| ARGB LED| Metal Backplate,
 ASUS,ASUS TUF Gaming GeForce RTX 3070 DirectX 12 TUF-RTX3070-O8G-GAMING 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready Video Card,
+ASRock,ASRock Phantom Gaming D3 Radeon RX 5600 XT RX5600XT PGD3 6GO 6GB (14Gbps) 192-Bit GDDR6 PCI Express 4.0 x16 HDCP Ready Video Card,Free Shipping
 PNY Technologies, Inc.,PNY GeForce RTX 3080 10GB XLR8 Gaming UPRISING EPIC-X RGB Triple Fan Graphics Card| VCG308010TFXMPB,
 ASRock,ASRock Phantom Gaming D Radeon RX 570 DirectX 12 RX570 4G 4GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,$2.99 Shipping
 ASUS,ASUS TUF Gaming GeForce RTX 2060 OC Edition 6GB GDDR6 VR Ready HDMI 2.0b DP 1.4 Auto Extreme Graphics Card (TUF-RTX2060-O6G-GAMING),$31.00 Shipping
@@ -12,7 +12,6 @@ MSI,MSI GeForce GTX 1660 SUPER DirectX 12 GTX 1660 SUPER GAMING X 6GB 192-Bit GD
 Sapphire Tech,SAPPHIRE PULSE Radeon RX 580 DirectX 12 11265-05-20G 8GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support Video Cards,$3.99 Shipping
 PowerColor,PowerColor RED DRAGON Radeon RX 570 DirectX 12 AXRX 570 4GBD5-DHDV3/OC 4GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,$2.99 Shipping
 MSI,MSI Radeon RX 570 DirectX 12 RX 570 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support ATX Video Card,Free Shipping
-GIGABYTE,GIGABYTE Radeon RX 5700 XT DirectX 12 GV-R57XTGAMING OC-8GD (rev. 2.0) 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card,$6.99 Shipping
 GIGABYTE,GIGABYTE GeForce RTX 2060 Super WINDFORCE OC 8G Graphics Card| 2 x WINDFORCE Fans| 8GB 256-Bit GDDR6| GV-N206SWF2OC-8GD Video Card,$45.00 Shipping
 GIGABYTE,GIGABYTE Radeon RX 570 DirectX 12 GV-RX570GAMING-8GD Rev 2.0 8GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,$3.99 Shipping
 GIGABYTE,GIGABYTE GeForce GTX 1650 DirectX 12 GV-N1656WF2OC-4GD (rev. 2.0) 4GB 128-Bit GDDR6 PCI Express 3.0 x16 ATX Video Card,$6.99 Shipping
@@ -23,6 +22,7 @@ ASUS,ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-11G-GAMIN
 ASRock,ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT CHALLENGER D 8G OC 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready Video Card,$6.99 Shipping
 GIGABYTE,GIGABYTE GeForce GTX 1050 Ti OC Low Profile 4GB Video Card| GV-N105TOC-4GL,Free Shipping
 Sapphire Tech,Sapphire Pulse RX 5600 XT BE 6GB GDDR6 PCI-E DUAL HDMI / DUAL DP OC w/ Backplate (UEFI),Free Shipping
+GIGABYTE,GIGABYTE Radeon RX 5700 XT DirectX 12 GV-R57XTGAMING OC-8GD (rev. 2.0) 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card,$99.99 Shipping
 MSI,MSI GeForce RTX 2070 SUPER DirectX 12 RTX 2070 SUPER VENTUS GP OC 8GB 256-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,$99.99 Shipping
 EVGA,EVGA GeForce RTX 2070 SUPER BLACK GAMING| 08G-P4-3071-KR| 8GB GDDR6,$13.50 Shipping
 ASUS,ASUS ROG STRIX GeForce RTX 2060 DirectX 12 ROG-STRIX-RTX2060-A6G-GAMING 6GB 192-Bit GDDR6 PCI Express 3.0 HDCP Ready Video Card,$99.99 Shipping
